@@ -1,4 +1,4 @@
-[Guide in English](https://github.com/ltachiUchiha/MiSide-Console-Unlocker/README.md)
+[Guide in English](https://github.com/ltachiUchiha/MiSide-Console-Unlocker/blob/main/README.md)
 
 # MiSide-Console-Unlocker
 MiSide-Console-Unlocker - мод для игры MiSide для разблокировки полной версии консоли.
